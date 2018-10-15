@@ -1,0 +1,16 @@
+@import '../../../variables.scss';
+
+$primaryColor: $tdColorPrimary1;
+$primaryTextColor: $tdColorSecondary1;
+$menuBgColor: $tdColorSecondary2;
+$menuitemTextColor: $tdColorSecondary6;
+$submenuActiveBgColor: $tdColorSecondary1;
+$menuItemHoverTextColor: $tdColorPrimary1;
+$menuItemActiveTextColor: $tdColorPrimary1;
+$bodyBgColor: $tdColorSecondary1;
+$textColor: $tdColorSecondary6;
+$textSecondaryColor: $tdColorSecondary5;
+$placeholderColor: $tdColorSecondary4;
+$dividerColor: $tdColorSecondary3;
+
+@import '../../sass/layout/_layout.scss';
